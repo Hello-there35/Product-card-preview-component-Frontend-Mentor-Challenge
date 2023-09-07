@@ -31,7 +31,8 @@ Normal state
 Active state
 ![Cart-active](./Screenshots/Cart-active-state.png)
 Mobile design
-![Mobile-design](./Screenshots/Mobile.png)
+<div style="text-align:center"><img src="./Screenshots/Mobile.png" /></div>.
+
 
 
 ### Links
