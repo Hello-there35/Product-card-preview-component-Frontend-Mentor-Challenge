@@ -1,0 +1,31 @@
+@media screen and (max-width: 610px){
+    /* Card style for mobile design which sets all child elements in a column */
+    .card-container{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+   }
+   /* product image style which sets image to product mobile image */
+   .product-image{
+    background-image: url("../images/image-product-mobile.jpg");
+    width: inherit;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+   }
+   /* sets product information width and margin in mobile design*/
+   .product-info{
+    width: 295px;
+    margin: 20px auto;
+}
+
+
+
+}

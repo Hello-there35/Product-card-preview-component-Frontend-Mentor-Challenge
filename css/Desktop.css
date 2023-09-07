@@ -1,0 +1,28 @@
+@media screen and (min-width: 610px) {
+    /* Card style for setting the card's elements in a row or on the same level */
+   .card-container{
+    width: 600px;
+    height: 450px;
+    background-color: white;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between
+
+   }
+   /* Card image style for desktop design */
+   .product-image{
+    background-image: url("../images/image-product-desktop.jpg");
+    width: 300px;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+   }
+   /* sets product information width and margin in desktop design*/
+   .product-info{
+    width: 240px;
+    margin: 0 auto;
+}
+}
