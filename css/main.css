@@ -72,13 +72,14 @@ body{
     flex-direction: row;
     justify-content:left;
     align-items: center;
+    gap: 1rem;
 }
 /* adds space between the new sale price and old sale price*/
 .price-container h1{
     color:hsl(158, 36%, 37%) ;
-    margin-right: 20px;
 }
 /* adds a line through the old price */
 .price-container p{
     text-decoration: line-through;
+   
 }
