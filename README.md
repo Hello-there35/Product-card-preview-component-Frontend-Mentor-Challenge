@@ -31,13 +31,14 @@ Normal state
 Active state
 ![Cart-active](./Screenshots/Cart-active-state.png)
 Mobile design
-![Mobile-design](./Screenshots/Mobile.png)
+<div align="center"><img src="./Screenshots/Mobile.png" /></div>.
+
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://hello-there35.github.io/Product-card-preview-component-Frontend-Mentor-Challenge/)
 
 ## My process
 
